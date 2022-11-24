@@ -1,6 +1,7 @@
 
+![header](https://user-images.githubusercontent.com/101187520/203807551-7105a0de-9fdf-4bee-b306-6d31180641f5.png)
 
-<img width="912" style="display: block; text-align: center;" alt="Screenshot 2022-07-16 at 10 27 30" src="https://user-images.githubusercontent.com/101187520/179345015-73f2ec51-3da6-4775-8e00-b0acde0bb646.png">
+
 
 ## About
 Allround Software engineer with a scientific approach to solving problems.
