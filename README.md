@@ -1,6 +1,4 @@
-
-![header](https://user-images.githubusercontent.com/101187520/203807551-7105a0de-9fdf-4bee-b306-6d31180641f5.png)
-
+![background](https://user-images.githubusercontent.com/101187520/210220158-b0368ec8-fe00-4b4f-8f73-a1b63b2b7727.png)
 
 
 ## About
