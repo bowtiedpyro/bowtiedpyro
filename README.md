@@ -1,4 +1,5 @@
-![background](https://user-images.githubusercontent.com/101187520/210220158-b0368ec8-fe00-4b4f-8f73-a1b63b2b7727.png)
+
+![banner](https://github.com/bowtiedpyro/bowtiedpyro/assets/101187520/21037775-232d-489e-9b92-5e2e99adaee7)
 
 
 ## About
