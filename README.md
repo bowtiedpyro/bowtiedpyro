@@ -16,8 +16,8 @@ Allround Software engineer with a scientific approach to solving problems.
 
 ## General
 - 🔭 I’m currently working on 🍯
-- 🌱 I’m currently learning Rust
-- 💬 Ask me about Javascript || NodeJS || ExpressJS || HTML || CSS || 
+- 🌱 Always learning
+- 💬 Ask me about Javascript || NodeJS || TS || React || Mongo/oose || Speed optimisations || (anything code related)
 - 📫 How to reach me: bowtiedpyro@gmail.com
 - 😄 Pronouns: Pyro
 - ⚡ Fun fact: Obsessions include ☕️ and 💻
