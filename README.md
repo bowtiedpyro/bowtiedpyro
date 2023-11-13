@@ -1,5 +1,6 @@
 
-![banner](https://github.com/bowtiedpyro/bowtiedpyro/assets/101187520/21037775-232d-489e-9b92-5e2e99adaee7)
+![github_banner](https://github.com/bowtiedpyro/bowtiedpyro/assets/101187520/a66827a2-4b59-409d-a7d0-4a3c65a36c0c)
+
 
 
 ## About
