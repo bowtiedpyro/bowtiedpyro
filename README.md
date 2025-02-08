@@ -22,6 +22,6 @@ Allround Software engineer with a scientific approach to solving problems.
 - 🌱 Always learning
 - 💬 Ask me about Javascript || NodeJS || TS || React || Mongo/oose || Speed optimisations || (anything code related)
 - 📫 How to reach me: bowtiedpyro@gmail.com
-- 😄 Pronouns: Pyro
+- 😄 Name: Pyro - from Pyroblast
 - ⚡ Fun fact: Obsessions include ☕️ and 💻
 
